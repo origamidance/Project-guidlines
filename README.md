@@ -1,2 +1,2 @@
-Personal project guidelines  
+Personal project guidelines.
 
